@@ -4742,7 +4742,6 @@ h6.font-parisienne {
   font-weight: 700;
   line-height: 68px;
   margin-bottom: 30px;
-  color: #10b695 !important;
 }
 .inspiro-slider .slide .slide-captions h3,
 .inspiro-slider .slide .slide-captions h4,
@@ -7217,7 +7216,7 @@ h6.font-parisienne {
 #footer .copyright-content {
   min-height: 80px;
   padding: 30px 0;
-  background: linear-gradient(190deg, #00796e, #00cba2);
+  background: linear-gradient(190deg, #000000, #454545);
   font-size: 13px;
 }
 #footer .logo {
@@ -7311,7 +7310,7 @@ h6.font-parisienne {
   color: #484848;
 }
 .widget p {
-  margin-bottom: 20px;
+  margin-bottom: 10px;
 }
 .sidebar .widget {
   border-bottom: 1px solid #eee;
@@ -11049,8 +11048,6 @@ a.btn:not([href]):not([tabindex]):hover,
 a.btn:not([href]):not([tabindex]):focus,
 a.btn:not([href]):not([tabindex]):not(:disabled):not(.disabled):active,
 a.btn:not([href]):not([tabindex]):not(:disabled):not(.disabled).active {
-  background-color: #10b695;
-  border-color: #10b695;
   color: #fff;
   text-decoration: none;
 }

@@ -20,7 +20,7 @@
     /> -->
     <link rel="stylesheet" href="assets/css/bootstrap-select.min.css" />
 
-    <link href="assets/css/plugins.css" rel="stylesheet" /> -->
+    <link href="assets/css/plugins.css" rel="stylesheet" /> 
     <link href="assets/css/style.css" rel="stylesheet" />
     <link href="assets/css/custom.css" rel="stylesheet" />
     <link rel="stylesheet" type="text/css" href="multi-form.css" />
@@ -48,7 +48,7 @@
   </head>
   <body>
     <div class="body-inner">
-    <header id="header" class="light" data-transparent="true">
+    <header id="header" class="light" data-transparent="false">
         <div class="header-inner">
           <div class="container">
             <div id="logo">

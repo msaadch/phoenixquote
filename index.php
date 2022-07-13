@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="icon" type="image/png" href="assets/img/favicon.png" />
-    <title>MedicareSolutionsJoy</title>
+    <title>ThePhoenixQuotes</title>
     <!-- <link
       rel="stylesheet"
       href="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css"
@@ -89,7 +89,7 @@
                       <a :active class="" href="index.php">HOME</a>
                     </li>
                     <li>
-                      <a href="#" class="dropdown">SERVICES</a>
+                      <a class="dropdown">SERVICES</a>
                       <ul class="dropdown-menu">
                         <!--<li><a href="#">AUTO</a></li>-->
                         <!--<li><a href="#">HEALTH</a></li>-->
@@ -100,7 +100,7 @@
                         <!--<li>-->
                         <!--  <a href="#">HOME INSURANCE</a>-->
                         <!--</li>-->
-                        <li><a href="medicare.php">MEDICARE</a></li>
+                        <li><a href="auto.php">AUTO INSURANCE</a></li>
                         <!--<li>-->
                         <!--  <a href="#">HOME IMPROVEMENT</a>-->
                         <!--</li>-->
@@ -110,9 +110,9 @@
                     <!-- <li>
                       <a href="#">GET QUOTES</a>
                     </li> -->
-                    <li>
+                    <!-- <li>
                       <a href="#">ABOUT US</a>
-                    </li>
+                    </li> -->
                     <li>
                       <a href="terms.html">TERMS</a>
                     </li>
@@ -180,7 +180,7 @@
       <!--        type="hidden"-->
       <!--        name="csrfmiddlewaretoken"-->
       <!--        value="7RregcsadywtuU34L7vGtjwqqb08qF1qd716hPbK8dGcKmVv3eq7WLTVossXQZXP"-->
-      <!--      /> -->-->
+      <!--      /> -->
       <!--      <div class="form-row d-flex flex-wrap justify-content-center">-->
       <!-- <label for="address2">Select Currently Insured Company</label> -->
       <!--        <div class="form-group col-md-4">-->
@@ -359,16 +359,16 @@
                   cardIcon
                 "
               >
-                <a href="medicare.php">
-                  <img src="assets/img/medicare.png" alt="" srcset="" />
+                <a href="auto.php">
+                  <img src="assets/img/auto.png" alt="" srcset="" />
                 </a>
 
                 <div class="txt">
-                  <a href="medicare.php">Medicare Insurance</a>
+                  <a href="auto.php">Auto Insurance</a>
                 </div>
                 <a
                   class="btn fadeInUp"
-                  href="medicare.php"
+                  href="auto.php"
                   style="opacity: 1; animation-duration: 600ms"
                   >GET QUOTE</a
                 >
@@ -451,10 +451,7 @@
             <div class="col-lg-7" data-animate="fadeIn">
               <h2 class="text-medium txtWh">About Us</h2>
               <p class="txtWidth">
-                At MediCare Solutions Joy, we believe in delivering you outstanding service, price and quality. Our Mission is to help you feel better, live longer, and become the best possible you!
-                <br/>
-                <br/>
-                A health insurance plan benefits you in providing free preventive care, like vaccines, screenings, and check-ups. A good health insurance care will take care of your medical bills and your individual medical needs.
+              At the Pheonix Quote, we Assure you that quality does not fall sideways when it comes to providing customers with affordable auto insurance and great customer services. We take on the risk and provide the coverage you need to protect the things that are important to you, your car, your valuables, and your business so you don't have to worry.
               </p>
               <a
                 href="#"
@@ -535,7 +532,7 @@
           <div>
             <img alt="" src="assets/img/20.png" />
           </div>
-          
+        </div>
       </section>
 
       <!-- our clients section -->
@@ -558,10 +555,7 @@
               <div class="post-item-description">
                 <h2>John Carry</h2>
                 <p>
-                  "Medicare Solutions Joy knows the secrets and techniques to
-                  save money the insurance companies won't tell you. They care
-                  about people and really want to help you and your family get
-                  the best deal that fits your needs."
+                  I’ve been a client at Hartland Insurance for many years. I appreciate the courtesy from the staff and Auto Owners’ philosophy of “The Phoenix Quotes”. I’ve been a client with Auto Owners Insurance for more than 40 years. Thank you for a job well done.”
                 </p>
               </div>
             </div>
@@ -578,8 +572,7 @@
               <div class="post-item-description">
                 <h2>Katherine William</h2>
                 <p>
-                  "We were treated like royalty. MedicareSolutionsJoy has
-                  completely surpassed our expectations. Very easy to use."
+                  I have used The Phoenix Quotes for more than 2 years. It is nice to work with local people who are familiar with you and your individual situation. They are helpful and friendly and I have always felt that I am in good hands.
                 </p>
               </div>
             </div>
@@ -596,10 +589,7 @@
               <div class="post-item-description">
                 <h2>Micheal Smith</h2>
                 <p>
-                  "They always have the best insurance plans for me and my
-                  family and their pricing is very competitive. It is a relief
-                  to know that there is wonderful health care coverage for those
-                  who are self employed!"
+                  I really appreciate the Phoenix Quotes diligent work every year to get us properly insured, it allows me to sleep well knowing we are well protected.
                 </p>
               </div>
             </div>
@@ -613,19 +603,15 @@
             <div class="row">
               <div class="col-lg-5">
                 <div class="widget">
-                  <div class="widget-title">MedicareSolutionsJoy</div>
-                  <p class="mb-5">
-                    MedicareSolutionsJoy is an insurance broker company,
-                    securing the customers’ interest and providing them with
-                    felicitous insurance deal.
-                  </p>
+                  <div class="widget-title">ThePhoenixQuotes</div>
+                  <p class="">
+                  These five values Rule the way we do business and how we treat our colleagues and customers.</p>
+                  <p class="mb-4">Righteousness, Customer Orientation, Aim, Brilliance, Gain</p>
                   <a href="#" class="btn btn-inverted btnGrey" target="_blank"
                     >Contact Us</a
                   >
                 </div>
-                <div>
-                  <p>Website: <a href="https://thephoenixquotes.com/">The Phoenix Quotes</a> </p>
-                </div>
+                
               </div>
               <div class="col-lg-7">
                 <div class="row">
@@ -641,7 +627,7 @@
                         <!--<li>-->
                         <!--  <a href="#">Home Insurance</a>-->
                         <!--</li>-->
-                        <li><a href="medicare.php">Medicare</a></li>
+                        <li><a href="auto.php">Auto</a></li>
                         <!--<li>-->
                         <!--  <a href="#">Home Improvement</a>-->
                         <!--</li>-->
@@ -654,7 +640,7 @@
                       <ul class="list">
                         <li><a href="terms.html">Terms</a></li>
                         <li><a href="privacy.html">Privacy</a></li>
-                        <li><a href="#">Partners</a></li>
+                        <!-- <li><a href="#">Partners</a></li> -->
                       </ul>
                     </div>
                   </div>
@@ -663,7 +649,7 @@
                       <div class="widget-title">Pages</div>
                       <ul class="list">
                         <!-- <li><a href="#">Blogs</a></li> -->
-                        <li><a href="#">About us</a></li>
+                        <!-- <li><a href="#">About us</a></li> -->
                         <li><a href="#">Contact us</a></li>
                       </ul>
                     </div>
